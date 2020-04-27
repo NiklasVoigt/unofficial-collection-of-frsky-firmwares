@@ -19,6 +19,7 @@ Here is an incomplete list of the recievers. The firmware depends on your specif
 |RX8R|[FW-RX8R-170224.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-RX8R-170224.zip)|-|-|
 |RX8R PRO|[FW-RX8R-PRO_180601.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-RX8R-PRO_180601.zip)|-|-|
 |XSR|[FW-XSR-180322.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-XSR-180322.zip)|-|-|
+|XSR-SIM|[FW-XSR-SIM_180815.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-XSR-SIM_180815.zip)|[FW-XSR-SIM-v2.1.0.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-XSR-SIM-v2.1.0.zip)|-|
 |XMR|[XMR170228.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/XMR170228.zip)|-|-|
 |XM|[XM170323.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/XM170323.zip)|-|-|
 |XM PLUS|[XM+170313.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/XM+170313.zip)|-|-|
@@ -52,5 +53,26 @@ Here is an incomplete list of the recievers. The firmware depends on your specif
 |TFR4SB|[TFR4SB_TFR8_build150107.rar](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/TFR4SB_TFR8_build150107.rar)|-|-|
 |TFR8SB|[TFR4SB_TFR8_build150107.rar](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/TFR4SB_TFR8_build150107.rar)|-|-|
 
+## Accessories Quick Links:
+
+Here is an incomplete list of the accessories. The firmware depends on your specific needs. 
+
+|Accessories|Firmware|Description|
+|---|---|---|
+|Redundancy Bus|-|No firmware available|
+|RB-10|[FW-RB10-171010.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-RB10-171010.zip)|-|
+|RB-20|[RB20_180724.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/RB20_180724.zip)|-|
+|SPC|-|No firmware available|
+|FSD|-|No firmware available|
+|XSR-SIM|-|Reciever Table|
+|SD1|[FW-SD1-171114_and_lua.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-SD1-171114_and_lua.zip)|-|
+
+
+|SP2UARTConverter|-|No firmware available|
+|SBUS to CPPM|-|No firmware available|
+|SBUS to PWM Decoder|-|No firmware available|
+|SCC|-|No firmware available|
+
+|USB to S.Port|[frsky_update_sport_rev14.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/frsky_update_sport_rev14.zip)|Tool-FrSky update sport compatible with FrUSB-3 (FUC-3), USB to S.Port, STK|
 
 If you like this project and want to support further collection please consider making a pull request with additions.
