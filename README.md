@@ -105,5 +105,9 @@ Here is an incomplete list of the compatible recievers. The firmware depends on 
 |FRF3 EVO Brushed|[FrskyRx_F801_TELEMETRY_PFS_SBUS_240816.hex](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/compatible-reciever-firmwares/FrskyRx_F801_TELEMETRY_PFS_SBUS_240816.hex)|D8 Telemetry Mod [Instructions](https://drive.google.com/open?id=1pa3hvCHW5MqcFbQSVUtyZS9t9khQJayB)|
 |Banggood DIY-FRSKY-8CH-Receiver|different hardware versions but moddable|D8 Telemetry Mod [Instructions](https://www.rcgroups.com/forums/showthread.php?2124647-DIY-FrSky-TX-RX-Modules)|
 |Banggood DIY RX-F802|different hardware versions but moddable|D8 Telemetry Mod [Instructions](https://www.rcgroups.com/forums/showthread.php?2124647-DIY-FrSky-TX-RX-Modules)|
+|uSky|-|Great 0.37g reciever[Instructions](https://fishpepper.de/projects/usky/)|
+
+
+
 
 If you like this project and want to support further collection please consider making a pull request with additions.
