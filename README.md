@@ -43,8 +43,8 @@ Here is an incomplete list of the recievers. The firmware depends on your specif
 |V8R7-II|No firmware available|-|-|
 |VD5M|No firmware available|-|-|
 |TFR4|No firmware available|-|-|
-|TFR4SB|[TFR4SB_TFR8_build150107.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/TFR4SB_TFR8_build150107.zip)|-|-|
-|TFR8SB|[TFR4SB_TFR8_build150107.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/TFR4SB_TFR8_build150107.zip)|-|-|
+|TFR4SB|[TFR4SB_TFR8_build150107.rar](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/TFR4SB_TFR8_build150107.rar)|-|-|
+|TFR8SB|[TFR4SB_TFR8_build150107.rar](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/TFR4SB_TFR8_build150107.rar)|-|-|
 
 
 If you like this project and want to support further collection please consider making a pull request with additions.
