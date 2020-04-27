@@ -1,15 +1,27 @@
+  
 
 # Unofficial Collection of FrSky Firmwares
 
+  
+
 **First things first..** i want to thank FrSky for there great products and support. As the title says this repository is a **unofficial & private** collection and is not supported by FrSky! This repository saves old firmwares to keep the *old non ACCESS* firmware alive!
 
-All informations, files, firmwares, etc that is hosted here are available through open access from [https://www.frsky-rc.com/](https://www.frsky-rc.com/) and all the credit goes to FrSky Electronic Co.,Ltd.
+  
 
-## Reciever Quick Links:
+Some informations, files, firmwares, etc that is hosted here are available through open access from [https://www.frsky-rc.com/](https://www.frsky-rc.com/) and all the credit goes to FrSky Electronic Co.,Ltd.
 
-Here is an incomplete list of the recievers. The firmware depends on your specific needs. 
+  
+
+## FrSky Reciever Quick Links:
+
+  
+
+Here is an incomplete list of the recievers. The firmware depends on your specific needs.
+
+  
 
 |Reciever|ACCST D16 Firmware|ACCESS Firmware|Description|
+
 |---|---|---|---|
 |ARCHER M+|-|-|No firmware available|
 |ARCHER GR8|-|-|No firmware available|
@@ -53,9 +65,15 @@ Here is an incomplete list of the recievers. The firmware depends on your specif
 |TFR4SB|[TFR4SB_TFR8_build150107.rar](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/TFR4SB_TFR8_build150107.rar)|-|-|
 |TFR8SB|[TFR4SB_TFR8_build150107.rar](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/TFR4SB_TFR8_build150107.rar)|-|-|
 
-## Accessories Quick Links:
+  
 
-Here is an incomplete list of the accessories. The firmware depends on your specific needs. 
+## FrSky Accessories Quick Links:
+
+  
+
+Here is an incomplete list of the accessories. The firmware depends on your specific needs.
+
+  
 
 |Accessories|Firmware|Description|
 |---|---|---|
@@ -71,5 +89,21 @@ Here is an incomplete list of the accessories. The firmware depends on your spec
 |SBUS to PWM Decoder|-|No firmware available|
 |SCC|-|No firmware available|
 |USB to S.Port|[frsky_update_sport_rev14.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/frsky_update_sport_rev14.zip)|Tool-FrSky update sport compatible with FrUSB-3 (FUC-3), USB to S.Port, STK|
+
+  
+
+## FrSky Compatible Reciever Quick Links:
+
+  
+
+Here is an incomplete list of the compatible recievers. The firmware depends on your specific needs.
+
+  
+
+|Reciever|Firmware|Description|
+|---|---|---|
+|FRF3 EVO Brushed|[FrskyRx_F801_TELEMETRY_PFS_SBUS_240816.hex](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/compatible-reciever-firmwares/FrskyRx_F801_TELEMETRY_PFS_SBUS_240816.hex)|D8 Telemetry Mod [Instructions](https://drive.google.com/open?id=1pa3hvCHW5MqcFbQSVUtyZS9t9khQJayB)|
+|Banggood DIY-FRSKY-8CH-Receiver|different hardware versions but moddable|D8 Telemetry Mod [Instructions](https://www.rcgroups.com/forums/showthread.php?2124647-DIY-FrSky-TX-RX-Modules)|
+|Banggood DIY RX-F802|different hardware versions but moddable|D8 Telemetry Mod [Instructions](https://www.rcgroups.com/forums/showthread.php?2124647-DIY-FrSky-TX-RX-Modules)|
 
 If you like this project and want to support further collection please consider making a pull request with additions.
