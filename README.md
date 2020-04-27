@@ -66,13 +66,10 @@ Here is an incomplete list of the accessories. The firmware depends on your spec
 |FSD|-|No firmware available|
 |XSR-SIM|-|Reciever Table|
 |SD1|[FW-SD1-171114_and_lua.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-SD1-171114_and_lua.zip)|-|
-
-
 |SP2UARTConverter|-|No firmware available|
 |SBUS to CPPM|-|No firmware available|
 |SBUS to PWM Decoder|-|No firmware available|
 |SCC|-|No firmware available|
-
 |USB to S.Port|[frsky_update_sport_rev14.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/frsky_update_sport_rev14.zip)|Tool-FrSky update sport compatible with FrUSB-3 (FUC-3), USB to S.Port, STK|
 
 If you like this project and want to support further collection please consider making a pull request with additions.
