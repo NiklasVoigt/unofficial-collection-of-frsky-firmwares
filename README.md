@@ -11,8 +11,8 @@ Here is an incomplete list of the recievers. The firmware depends on your specif
 
 |Reciever|ACCST D16 Firmware|ACCESS Firmware|Description|
 |---|---|---|---|
-|ARCHER M+|-|No firmware available|-|
-|ARCHER GR8|-|No firmware available|-|
+|ARCHER M+|-|-|No firmware available|
+|ARCHER GR8|-|-|No firmware available|
 |R-XSR|[FW-RXSR-ACCST_v191128.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-RXSR-ACCST_v191128.zip)|[FW-ACCESS-RXSR_v2.1.0.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-ACCESS-RXSR_v2.1.0.zip)|-|
 |RX4R|[FW-RX4R-180516.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-RX4R-180516.zip)|[FW-ACCESS-RX4R-v2.1.0.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-ACCESS-RX4R-v2.1.0.zip)|-|
 |RX6R|[FW-RX6R-180516.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-RX6R-180516.zip)|[FW-ACCESS-RX6R-v2.1.0.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-ACCESS-RX6R-v2.1.0.zip)|-|
@@ -31,18 +31,24 @@ Here is an incomplete list of the recievers. The firmware depends on your specif
 |S6R|[FW-SxR-190531.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-SxR-190531.zip)|-|-|
 |S8R|[FW-SxR-190531.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-SxR-190531.zip)|-|-|
 |R9 Mini|[FW-R9MINI-ACCST_v20190201.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-R9MINI-ACCST_v20190201.zip)|-|-|
+|R9 Mini-OTA|[FW-R9MINI-ACCST_v20190201.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-R9MINI-ACCST_v20190201.zip)|[FW-R9MINI-R9MM-OTA_v1.3.0.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-R9MINI-R9MM-OTA_v1.3.0.zip)|-|
 |R9 MM|[FW-R9MINI-ACCST_v20190201.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-R9MINI-ACCST_v20190201.zip)|-|-|
+|R9 MM-OTA|[FW-R9MM-ACCST_v20190201.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-R9MM-ACCST_v20190201.zip)|[FW-R9MINI-R9MM-OTA_v1.3.0.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-R9MINI-R9MM-OTA_v1.3.0.zip)|-|
 |R9 Slim|[FW-R9Slim-ACCST_20190201.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-R9Slim-ACCST_20190201.zip)|-|-|
 |R9 Slim+|[FW-R9Slim-ACCST_20190201.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-R9Slim-ACCST_20190201.zip)|-|-|
+|R9 Slim+ OTA|[FW-R9Slim+OTA-ACCST_20200403.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-R9Slim+OTA-ACCST_20200403.zip)|[FW-R9Slim+OTA-ACCESS_v1.3.0.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-R9Slim+OTA-ACCESS_v1.3.0.zip)|-|
 |R9|[FW-R9-ACCST-20190201.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-R9-ACCST-20190201.zip)|-|-|
+|R9 SX|-|-|-|
+|R9 MX|-|-|-|
+|R9 STAB OTA|[FW-R9Stab-ACCST_v20191022.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-R9Stab-ACCST_v20191022.zip)|[FW-R9Stab-ACCESS_v1.3.0.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-R9Stab-ACCESS_v1.3.0.zip)|-|
 |D4R-II|[D4R-II_CPPM_18ms.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/D4R-II_CPPM_18ms.zip)|-|-|
 |D8R-II plus|[D8R-II_Upgrade.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/D8R-II_Upgrade.zip)|-|-|
 |D8R-XP|[D8R-XP_CPPM_18ms.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/D8R-XP_CPPM_18ms.zip)|-|-|
-|V8FR-II|No firmware available|-|-|
-|V8R4-II|No firmware available|-|-|
-|V8R7-II|No firmware available|-|-|
-|VD5M|No firmware available|-|-|
-|TFR4|No firmware available|-|-|
+|V8FR-II|-|-|No firmware available|
+|V8R4-II|-|-|No firmware available|
+|V8R7-II|-|-|No firmware available|
+|VD5M|-|-|No firmware available|
+|TFR4|-|-|No firmware available|
 |TFR4SB|[TFR4SB_TFR8_build150107.rar](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/TFR4SB_TFR8_build150107.rar)|-|-|
 |TFR8SB|[TFR4SB_TFR8_build150107.rar](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/TFR4SB_TFR8_build150107.rar)|-|-|
 
