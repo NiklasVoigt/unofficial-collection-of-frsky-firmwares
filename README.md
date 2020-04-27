@@ -21,7 +21,6 @@ Here is an incomplete list of the recievers. The firmware depends on your specif
   
 
 |Reciever|ACCST D16 Firmware|ACCESS Firmware|Description|
-
 |---|---|---|---|
 |ARCHER M+|-|-|No firmware available|
 |ARCHER GR8|-|-|No firmware available|
