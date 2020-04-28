@@ -79,7 +79,7 @@ Here is an incomplete list of the recievers. The firmware depends on your specif
 |R9 SX|-|-|-|
 |R9 MX|-|-|-|
 |R9 STAB OTA|[FW-R9Stab-ACCST_v20191022.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-R9Stab-ACCST_v20191022.zip)|[FW-R9Stab-ACCESS_v1.3.0.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-R9Stab-ACCESS_v1.3.0.zip)|-|
-|D4R-II|[D4R-II_CPPM_18ms.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/D4R-II_CPPM_18ms.zip)|-|Alternative Firmware: [OpenSky](https://github.com/fishpepper/opensky)|
+|D4R-II|[D4R-II_CPPM_18ms.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/D4R-II_CPPM_18ms.zip)|-|OpenSource Firmware: [OpenSky](https://github.com/fishpepper/opensky)|
 |D8R-II plus|[D8R-II_Upgrade.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/D8R-II_Upgrade.zip)|-|-|
 |D8R-XP|[D8R-XP_CPPM_18ms.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/D8R-XP_CPPM_18ms.zip)|-|-|
 |V8FR|-|-|No firmware available, OpenSource Firmware: [OpenSky](https://github.com/Smeat/OpenSky)|
