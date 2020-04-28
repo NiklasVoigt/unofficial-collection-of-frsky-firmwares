@@ -10,7 +10,33 @@
 
 Some informations, files, firmwares, etc that is hosted here are available through open access from [https://www.frsky-rc.com/](https://www.frsky-rc.com/) and all the credit goes to FrSky Electronic Co.,Ltd.
 
+## FrSky Modules Quick Links:
+
   
+
+Here is an incomplete list of the modules. The firmware depends on your specific needs.
+
+  
+
+|Module|ACCST Firmware|ACCESS Firmware|Description|
+|---|---|---|---|
+|DJT|[DHT_DIP_Upgrade.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/DHT_DIP_Upgrade.zip)|-|-|
+|DFT|[DHT_DIP_Upgrade.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/DHT_DIP_Upgrade.zip)|-|-|
+|DHT|[DHT_DIP_Upgrade.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/DHT_DIP_Upgrade.zip)|-|-|
+|XJT Lite|-|[FW-XJTLite_2.1.0.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-XJTLite_2.1.0.zip)|-|
+|XJT|[XJT-Ver170317.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/XJT-Ver170317.zip)|[FW-XJT-v2.1.0.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-XJT-v2.1.0.zip)|-|
+|iXJT X10 & X10S|[X10S_1_3_06_iXJT.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/X10S_1_3_06_iXJT.zip)|[FW-iXJT-HORUS-v2.1.0.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-iXJT-HORUS-v2.1.0.zip)|ACCST firmware only flashable with OpenTX, credit goes to [raphaelcoeffic/horus_frk](https://github.com/raphaelcoeffic/horus_frk)|
+|iXJT X12S|[X12S_1_6_06_iXJT.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/X12S_1_6_06_iXJT.zip)|[FW-iXJT-HORUS-v2.1.0.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-iXJT-HORUS-v2.1.0.zip)|ACCST firmware only flashable with OpenTX, credit goes to [raphaelcoeffic/horus_frk](https://github.com/raphaelcoeffic/horus_frk)|
+|ACCESS Upgrade Module Kit (X10 & X10S)|-|[FW-X10X10S-UpgradeModuleKit_2.0.03_ISRM1.1.5.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-X10X10S-UpgradeModuleKit_2.0.03_ISRM1.1.5.zip)|-|
+|R9M Lite|[FW-R9MLite-ACCST-20190117.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-R9MLite-ACCST-20190117.zip)|[FW-R9MLite-ACCESS_v1.3.0.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-R9MLite-ACCESS_v1.3.0.zip)|-|
+|R9M Lite Pro|-|[FW-R9MLitePro-ACCESS_v1.3.0.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-R9MLitePro-ACCESS_v1.3.0.zip)|-|
+|R9M|[FW-R9M-ACCST-20190117.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-R9M-ACCST-20190117.zip)|-|-|
+|R9M 2019|[FW-R9M-ACCST-20190117.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-R9M-ACCST-20190117.zip)|[FW-R9M2019_ACCESS_V1.3.0.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-R9M2019_ACCESS_V1.3.0.zip)|-|
+
+
+
+
+
 
 ## FrSky Reciever Quick Links:
 
@@ -20,7 +46,7 @@ Here is an incomplete list of the recievers. The firmware depends on your specif
 
   
 
-|Reciever|ACCST D16 Firmware|ACCESS Firmware|Description|
+|Reciever|ACCST Firmware|ACCESS Firmware|Description|
 |---|---|---|---|
 |ARCHER M+|-|-|No firmware available|
 |ARCHER GR8|-|-|No firmware available|
