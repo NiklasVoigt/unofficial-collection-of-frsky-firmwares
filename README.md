@@ -58,8 +58,8 @@ Here is an incomplete list of the recievers. The firmware depends on your specif
 |XSR|[FW-XSR-180322.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-XSR-180322.zip)|[FW-XSR-v2.1.0.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-XSR-v2.1.0.zip)|-|
 |XSR-SIM|[FW-XSR-SIM_180815.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-XSR-SIM_180815.zip)|[FW-XSR-SIM-v2.1.0.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-XSR-SIM-v2.1.0.zip)|-|
 |XMR|[XMR170228.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/XMR170228.zip)|-|-|
-|XM|[XM170323.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/XM170323.zip)|[FW-XM-XMP-v2.1.0.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-XM-XMP-v2.1.0.zip)|-|
-|XM PLUS|[XM+170313.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/XM+170313.zip)|[FW-XM-XMP-v2.1.0.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-XM-XMP-v2.1.0.zip)|-|
+|XM|[XM170323.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/XM170323.zip)|[FW-XM-XMP-v2.1.0.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-XM-XMP-v2.1.0.zip)|Bricked reciever can be flashed with OpenSource Firmware: [OpenSky](https://github.com/Smeat/OpenSky)|
+|XM PLUS|[XM+170313.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/XM+170313.zip)|[FW-XM-XMP-v2.1.0.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-XM-XMP-v2.1.0.zip)|Bricked reciever can be flashed with OpenSource Firmware: [OpenSky](https://github.com/Smeat/OpenSky)|
 |X4R|[FW-X4R-X4RSB170322.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-X4R-X4RSB170322.zip),[FPORT_XSR_X4R_XSRF4_XSRF3_XSR-M_171114.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FPORT_XSR_X4R_XSRF4_XSRF3_XSR-M_171114.zip)|[FW-X4R-X4RSB-v2.1.0.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-X4R-X4RSB-v2.1.0.zip)|ACCST Firmware **Non-FPort:** 170322 **FPort:** NonEu: 171114 EU: 180111|-|
 |X4RSB|[FW-X4R-X4RSB170322.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-X4R-X4RSB170322.zip),[FPORT_XSR_X4R_XSRF4_XSRF3_XSR-M_171114.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FPORT_XSR_X4R_XSRF4_XSRF3_XSR-M_171114.zip)|[FW-X4R-X4RSB-v2.1.0.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-X4R-X4RSB-v2.1.0.zip)|ACCST Firmware **Non-FPort:** 170322 **FPort:** NonEu: 171114 EU: 180111|-|
 |X6R|[X8R_X6R_FW20180322.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/X8R_X6R_FW20180322.zip)|[FW-X6R-X8R-v2.1.0.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-X6R-X8R-v2.1.0.zip)|-|
@@ -79,13 +79,14 @@ Here is an incomplete list of the recievers. The firmware depends on your specif
 |R9 SX|-|-|-|
 |R9 MX|-|-|-|
 |R9 STAB OTA|[FW-R9Stab-ACCST_v20191022.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-R9Stab-ACCST_v20191022.zip)|[FW-R9Stab-ACCESS_v1.3.0.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-R9Stab-ACCESS_v1.3.0.zip)|-|
-|D4R-II|[D4R-II_CPPM_18ms.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/D4R-II_CPPM_18ms.zip)|-|Alternative Firmware: [OpenSky Firmware](https://github.com/fishpepper/opensky)|
+|D4R-II|[D4R-II_CPPM_18ms.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/D4R-II_CPPM_18ms.zip)|-|Alternative Firmware: [OpenSky](https://github.com/fishpepper/opensky)|
 |D8R-II plus|[D8R-II_Upgrade.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/D8R-II_Upgrade.zip)|-|-|
 |D8R-XP|[D8R-XP_CPPM_18ms.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/D8R-XP_CPPM_18ms.zip)|-|-|
+|V8FR|-|-|No firmware available, OpenSource Firmware: [OpenSky](https://github.com/Smeat/OpenSky)|
 |V8FR-II|-|-|No firmware available|
 |V8R4-II|-|-|No firmware available|
 |V8R7-II|-|-|No firmware available|
-|VD5M|-|-|No firmware available, Alternative Firmware: [OpenSky Firmware](https://github.com/fishpepper/opensky)|
+|VD5M|-|-|No firmware available, OpenSource Firmware: [OpenSky](https://github.com/fishpepper/opensky)|
 |TFR4|-|-|No firmware available|
 |TFR4SB|[TFR4SB_TFR8_build150107.rar](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/TFR4SB_TFR8_build150107.rar)|-|-|
 |TFR8SB|[TFR4SB_TFR8_build150107.rar](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/TFR4SB_TFR8_build150107.rar)|-|-|
