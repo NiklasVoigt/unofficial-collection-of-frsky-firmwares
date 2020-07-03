@@ -18,7 +18,7 @@ Here is an incomplete list of the modules. The firmware depends on your specific
 
   
 
-|Module|ACCST Firmware|ACCESS Firmware|Description|
+|Module|ACCST Firmware|ACCESS/ACCESS Compatible Firmware|Description|
 |---|---|---|---|
 |DJT|[DHT_DIP_Upgrade.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/DHT_DIP_Upgrade.zip)|-|-|
 |DFT|[DHT_DIP_Upgrade.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/DHT_DIP_Upgrade.zip)|-|-|
@@ -46,7 +46,7 @@ Here is an incomplete list of the recievers. The firmware depends on your specif
 
   
 
-|Reciever|ACCST Firmware|ACCESS Firmware|Description|
+|Reciever|ACCST Firmware|ACCESS/ACCESS Compatible Firmware|Description|
 |---|---|---|---|
 |ARCHER M+|-|-|No firmware available|
 |ARCHER GR8|-|-|No firmware available|
