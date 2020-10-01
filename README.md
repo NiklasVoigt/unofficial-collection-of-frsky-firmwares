@@ -10,7 +10,7 @@
 
 Some informations, files, firmwares, etc that is hosted here are available through open access from [https://www.frsky-rc.com/](https://www.frsky-rc.com/) and all the credit goes to FrSky Electronic Co.,Ltd.
 
-If you have any questions or want a takedown, please don't hesitate to contact!
+If you have any questions or want a takedown, please don't hesitate to [contact](mailto:niklas.voigt@hotmail.com)!
 
 ## FrSky Modules Quick Links:
 
