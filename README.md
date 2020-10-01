@@ -50,8 +50,17 @@ Here is an incomplete list of the recievers. The firmware depends on your specif
 
 |Reciever|ACCSTv1.x.x Firmware|ACCSTv2.x.x / ACCESS|Description|
 |---|---|---|---|
+|ARCHER SR10 PRO|-|-|No firmware available|
+|ARCHER SR8 PRO|-|-|No firmware available|
+|ARCHER SR6|-|-|No firmware available|
+|ARCHER R10 PRO|-|-|No firmware available|
+|ARCHER R8 PRO|-|-|No firmware available|
+|ARCHER R6|-|-|No firmware available|
+|ARCHER R4|-|-|No firmware available|
+|ARCHER RS|-|-|No firmware available|
 |ARCHER M+|-|-|No firmware available|
 |ARCHER GR8|-|-|No firmware available|
+|ARCHER GR6|-|-|No firmware available|
 |R-XSR|[FW-RXSR-ACCST_v191128.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-RXSR-ACCST_v191128.zip)|[FW-ACCESS-RXSR_v2.1.0.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-ACCESS-RXSR_v2.1.0.zip)|-|
 |RX4R|[FW-RX4R-180516.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-RX4R-180516.zip)|[FW-ACCESS-RX4R-v2.1.0.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-ACCESS-RX4R-v2.1.0.zip)|-|
 |RX6R|[FW-RX6R-180516.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-RX6R-180516.zip)|[FW-ACCESS-RX6R-v2.1.0.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-ACCESS-RX6R-v2.1.0.zip)|-|
