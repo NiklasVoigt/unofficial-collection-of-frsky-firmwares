@@ -7,7 +7,7 @@ Some informations, files, firmwares, etc that is hosted here are available throu
 If you have any questions or want a takedown, please don't hesitate to [contact](mailto:mail@niklas-voigt.de)!
 
 
-## FrSky Transmitter Quick Links:
+## 📌 FrSky Transmitter Quick Links:
 
 Here is an incomplete list of the transmitter. The firmware depends on your specific needs.
 
@@ -33,7 +33,7 @@ Here is an incomplete list of the transmitter. The firmware depends on your spec
 | Horus X10S Express (ISRM)              | -                                                                                                                                                           | [FW-X10X10SEXPRESS-ISRM-v2.1.0.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-X10X10SEXPRESS-ISRM-v2.1.0.zip)                               | -                                                                                                   |
 | Horus X12S (iXJT)                      | [X12S_1_6_06_iXJT.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/X12S_1_6_06_iXJT.zip)                   | [FW-iXJT-HORUS-v2.1.0.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-iXJT-HORUS-v2.1.0.zip)                                                 | ACCST firmware extracted by [raphaelcoeffic/horus_frk](https://github.com/raphaelcoeffic/horus_frk) |
 
-## FrSky Receiver Quick Links:
+## 📌 FrSky Receiver Quick Links:
 
 Here is an incomplete list of the receivers. The firmware depends on your specific needs.
 
@@ -91,7 +91,7 @@ Here is an incomplete list of the receivers. The firmware depends on your specif
 | TFR4SB          | [TFR4SB_TFR8_build150107.rar](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/TFR4SB_TFR8_build150107.rar)                                                                                                                                                                             | -                                                                                                                                                                 | -                                                                                                     |
 | TFR8SB          | [TFR4SB_TFR8_build150107.rar](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/TFR4SB_TFR8_build150107.rar)                                                                                                                                                                             | -                                                                                                                                                                 | -                                                                                                     |
 
-## FrSky Modules Quick Links:
+## 📌 FrSky Modules Quick Links:
 
 Here is an incomplete list of the modules. The firmware depends on your specific needs.
 
@@ -109,7 +109,7 @@ Here is an incomplete list of the modules. The firmware depends on your specific
 | R9M                                    | [FW-R9M-ACCST-20190117.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-R9M-ACCST-20190117.zip)         | -                                                                                                                                                                                                 | -                                                                                                   |
 | R9M 2019                               | [FW-R9M-ACCST-20190117.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-R9M-ACCST-20190117.zip)         | [FW-R9M2019_ACCESS_V1.3.0.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/FW-R9M2019_ACCESS_V1.3.0.zip)                                         | -                                                                                                   |
 
-## FrSky Accessories Quick Links:
+## 📌 FrSky Accessories Quick Links:
 
 Here is an incomplete list of the accessories. The firmware depends on your specific needs.
 
@@ -128,7 +128,7 @@ Here is an incomplete list of the accessories. The firmware depends on your spec
 | SCC                 | -                                                                                                                                                         | No firmware available                                                       |
 | USB to S.Port       | [frsky_update_sport_rev14.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/firmwares/frsky_update_sport_rev14.zip) | Tool-FrSky update sport compatible with FrUSB-3 (FUC-3), USB to S.Port, STK |
 
-## FrSky Compatible Receiver Quick Links:
+## 📌 FrSky Compatible Receiver Quick Links:
 
 Here is an incomplete list of the compatible receivers. The firmware depends on your specific needs.
 
@@ -141,4 +141,4 @@ Here is an incomplete list of the compatible receivers. The firmware depends on 
 | Stefans DIV8RT                  | -                                                                                                                                                                                                         | D8/D16 compatible Full-Range receiver with Telemetry [Read more](https://stefansbb.blogspot.com/2018/10/div8rt-development-updates.html)                                                                                                          |
 | Jumper R8 Receiver              | [FrskyX_2019_JUMPER_R8_170320.zip](https://github.com/NiklasVoigt/unofficial-collection-of-frsky-firmwares/raw/master/compatible-receiver-firmwares/FrskyX_2019_JUMPER_R8_170320.zip)                     | Compatible receiver configurable via Lua-Script. Features: PWM/8,PPM/16,D16/LBT/D8,SBUS,SPORT [Read more](https://www.rcgroups.com/forums/showthread.php?3504875-Jumper-R8-Receiver-8-channel-PPM-16-channel-SBUS-D16-LBT-D8-compatible-firmware) |
 
-If you like this project and want to support further collection please consider making a pull request with additions.
+❤️ If you like this project and want to support further collection please consider making a pull request with additions.
