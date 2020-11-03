@@ -1,4 +1,4 @@
-# Unofficial Collection of FrSky Firmwares
+# 📍 Unofficial Collection of FrSky Firmwares ✈️
 
 **First things first..** i want to thank FrSky for there great products and support. As the title says this repository is a **unofficial** collection and is not supported by FrSky! This repository saves old firmwares to keep the _old non ACCESS_ firmware alive!
 
